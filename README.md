@@ -1,4 +1,4 @@
-# 💰 FundBox — Smart Contract to Collect and Allocate Funds Publicly
+# FundBox — Smart Contract to Collect and Allocate Funds Publicly
 
 ## 📖 Project Description
 
